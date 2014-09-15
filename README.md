@@ -1,7 +1,7 @@
 CVR-Parser
 ==========
 
-Author: Shannon Hood
+Author: Shannon Hood, Duncan A Buell
 Date: Dec 2012
 
 Parses an EL155 Cast Vote Record. Candidates are mapped to a TreeMap based on candidate number 
